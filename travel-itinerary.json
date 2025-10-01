@@ -1,0 +1,44 @@
+
+
+{
+    "travelerName": {
+        "firstName": "Emma",
+        "lastName": "Gonzales"
+    },
+    "contactInfo": {
+        "email": "emmagonzales@gmail.com",
+        "phone": "123-456-7890"
+    },
+    "destinations": [
+        {
+            "location": "Paris",
+            "arrivalDate": "2017-04-16",
+            "departureDate": "2017-04-29",
+            "activities": [
+                {
+                    "title": "Visit the Eiffel Tower",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Visit the Centre Georges-Pompidou",
+                    "time": "1:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Athens",
+            "arrivalDate": "2017-04-30",
+            "departureDate": "2017-05-12",
+            "activities": [
+                {
+                    "title": "Visit the Parthenon",
+                    "time": "2:00 PM"
+                },
+                {
+                    "title": "Visit the Panathenaic Stadium",
+                    "time": "11:00 AM"
+                }
+            ]
+        }
+    ]
+}
